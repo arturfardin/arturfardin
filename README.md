@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Artur Fardin 👋
 
-<!--
-**arturfardin/arturfardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the Federal University of Santa Maria (UFSM), Brazil. 
+💻 Interested in software development, artificial intelligence, computer architecture, computer networks and cybersecurity.
+    
+   
+## 📚 Currently Learning
+- Intelligent Systems
+- Database Fundamentals
+- Computer Networks
+- Data Communications
+- Cybersecurity
 
-Here are some ideas to get you started:
+  
+## 🎯 Interests
+- Software Development
+- Artificial Intelligence
+- Computer Networks
+- Computer Architecture
+- UI/UX Design
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- GitHub: https://github.com/arturfardin
+- LinkedIn: [https://linkedin.com/in/artur-fardin](https://www.linkedin.com/in/artur-fardin-647151379/)
+
+
